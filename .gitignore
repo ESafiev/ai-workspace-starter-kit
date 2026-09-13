@@ -1,0 +1,18 @@
+# Personal AI Workspace data
+context/*.md
+!context/*.example.md
+
+decisions/log.md
+!decisions/*.example.md
+
+# Local configuration
+.env
+.env.*
+!.env.example
+
+# macOS
+.DS_Store
+
+# Editor / local files
+.vscode/
+.idea/
